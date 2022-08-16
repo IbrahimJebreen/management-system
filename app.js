@@ -22,13 +22,13 @@ function calcSalary(level) {
 }
 
 
-let emp1 = new employee(12, "ibrahim", "development", "Senior");
-let emp2 = new employee(13, "mohamed", "full stack", "Mid-Senior");
-let emp3 = new employee(14, "ahmad", "development", "Junior");
-let emp4 = new employee(15, "abdullah khaldon", "development", "Mid-Senior");
-let emp5 = new employee(16, "malek adel", "development", "Junior");
-let emp6 = new employee(17, "jehad haded", "development", "Senior");
-let emp7 = new employee(18, "ahmad al3krb", "development", "Senior");
+// let emp1 = new employee(12, "ibrahim", "development", "Senior");
+// let emp2 = new employee(13, "mohamed", "full stack", "Mid-Senior");
+// let emp3 = new employee(14, "ahmad", "development", "Junior");
+// let emp4 = new employee(15, "abdullah khaldon", "development", "Mid-Senior");
+// let emp5 = new employee(16, "malek adel", "development", "Junior");
+// let emp6 = new employee(17, "jehad haded", "development", "Senior");
+// let emp7 = new employee(18, "ahmad al3krb", "development", "Senior");
 
 const main = document.querySelector("main");
 const table = document.createElement("table");
